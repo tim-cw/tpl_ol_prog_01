@@ -29,3 +29,9 @@ Les deux seuls fichiers dans lesquels vous devez travailler sont :
 
 ### images
 - assets/images/bg-stats.jpg
+
+
+## CONTENU À COPIER-COLLER
+Voici des statistiques du webjam 2023.
+
+Découvrez l'importance des statistiques en ligne dans ce bloc dédié lors de notre webjam. Explorez les métriques clés pour optimiser votre présence sur le web.
