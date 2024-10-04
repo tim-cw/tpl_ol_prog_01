@@ -9,17 +9,17 @@ Les deux seuls fichiers dans lesquels vous devez travailler sont :
 - Arrière plan site et texte courant :
   #ffffff
 
-- Couleur primaire (mauve):
-  #AB5CDB
+- Couleur primaire (orange):
+  #EC7D05
 
 - Couleur fond de carte:
-  #1B1937
+  #212121
 
 
 ## FONTES
-- famille: 'Inter', sans-serif;
+- famille: 'Quicksand', sans-serif;
 - h2: 700 36px, 120% d'interlignage
-- nombre: 700 24px
+- nombres: 700 24px
 - stats sous nombre: 700 12px, 5% d'inter-lettrage (kerning)
 - body: 400 16px, 160% d'interlignage
 - bouton: marges intérieures: 15px 40px, typo : 16px et 10% d'inter-lettrage (kerning)
